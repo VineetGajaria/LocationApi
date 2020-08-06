@@ -1,0 +1,20 @@
+[
+  {
+    "CollarBarCode": "TestPet1",
+    "GeoLocation": {
+      "CellTowerId": 2,
+      "Latitude": 80,
+      "Longitude": 5
+    },
+    "LocationDateTime": "2020-07-05T01:07:33.0677198-04:00"
+  },
+  {
+    "CollarBarCode": "TestPet1",
+    "GeoLocation": {
+      "CellTowerId": 1,
+      "Latitude": 50,
+      "Longitude": 1
+    },
+    "LocationDateTime": "2020-08-06T01:08:24.3298832-04:00"
+  }
+]

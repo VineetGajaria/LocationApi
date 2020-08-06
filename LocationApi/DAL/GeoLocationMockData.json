@@ -1,0 +1,12 @@
+[
+  {
+    "CellTowerId": 1,
+    "Latitude": 50,
+    "Longitude": 1
+  },
+  {
+    "CellTowerId": 2,
+    "Latitude": 80,
+    "Longitude": 5
+  }
+]
